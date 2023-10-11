@@ -18,7 +18,8 @@ select_row=data.iloc[1]["weight"]
 #manipulate dataframe values
 bmi=[]
 
-#6:28 for tommorow
+#6:28 for
+# #tommorow
 
 
 
