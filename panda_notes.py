@@ -15,12 +15,6 @@ data =pd.DataFrame(titled_column)
 select_column=data["weight"][1]
 select_row=data.iloc[1]["weight"]
 
-#manipulate dataframe values
-bmi=[]
-
-#6:28 for
-# #tommoro
-
 
 
 print(select_row)
