@@ -19,7 +19,7 @@ select_row=data.iloc[1]["weight"]
 bmi=[]
 
 #6:28 for
-# #tommorow
+# #tommoro
 
 
 
